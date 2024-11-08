@@ -1,7 +1,6 @@
 # Nyx - README
 
-Nyx is a HEAVILY inspired project of the "Browse for me" Feature in arc browsers using ollama and python. 
-
+Nyx is heavily inspired by 'browse for me' in arc browsers.
 ### Prerequisites
 
 - **Python 3.11+** And dependencies
