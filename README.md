@@ -15,7 +15,7 @@ Nyx is a HEAVILY inspired project of the "Browse for me" Feature in arc browsers
 
 
 
-### Manual Setup
+### Manual Setup (Non windows users have to use this.)
 1. Go get Python from [python.org](https://www.python.org/downloads/)
 2. Install Python
 3. Open CMD or terminal on mac/linux and run `pip install fastapi starlette pydantic fastapi[all] aiohttp beautifulsoup4 lxml langchain langchain-community PyQt5 PyQtWebEngine uvicorn typing-extensions
